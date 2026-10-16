@@ -54,8 +54,8 @@ termux-setup-storage        # разрешите доступ к памяти в
 **2. Скачайте скрипт**
 
 ```bash
-git clone https://github.com/ВАШ_ЛОГИН/ИМЯ_РЕПО.git
-cd ИМЯ_РЕПО
+git clone https://github.com/Anorwed/tmux-mc-serv.git
+cd tmux-mc-serv
 ```
 
 **3. Положите архив сборки в «Загрузки» на телефоне и запустите**
